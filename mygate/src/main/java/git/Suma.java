@@ -1,15 +1,9 @@
-package git;
-
-/**
- * Hello world!
- *
- */
-public class App 
+public class Suma
 {
     public static void main( String[] args )
     {
-	int i=10;
-	int j=234;
+
+	String s=null;
         System.out.println( "Hello World!" );
     }
 }
